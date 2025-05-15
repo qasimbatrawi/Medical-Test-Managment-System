@@ -5,4 +5,4 @@ Shell Script Project: Shell Script-Based Patient Record System – A system to s
 
 # Team Member
 
-**Taleed Hamadneh** [GitHub Profile](https://github.com/taleed606)
+**Taleed Hamadneh** [GitHub](https://github.com/taleed606)
