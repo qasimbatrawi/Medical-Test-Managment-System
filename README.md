@@ -3,6 +3,6 @@ Python Project: OOP-Based Patient Record System in Python – A system to store,
 
 Shell Script Project: Shell Script-Based Patient Record System – A system to store, manage, and retrieve medical test data using shell scripting.
 
-# Team Members
+# Team Member
 
 - **Taleed Hamadneh** ([GitHub](https://github.com/taleed606))
